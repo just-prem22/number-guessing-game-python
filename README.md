@@ -1,5 +1,12 @@
 # 🎯 Number Guessing Game (Python)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20%7C%20Hard-purple)
+![Game Type](https://img.shields.io/badge/Game-CLI%20Based-informational)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
 A fun and interactive **command-line number guessing game** built using Python.
 
 ---
