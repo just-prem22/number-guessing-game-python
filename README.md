@@ -7,7 +7,25 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 
-A fun and interactive **command-line number guessing game** built using Python.
+A fun and interactive **command-line number guessing game** built using Python.  
+This project demonstrates **control flow, loops, conditional logic, and user interaction** in a clean and structured way.
+
+---
+
+## 📌 Table of Contents
+
+- [🚀 Features](#-features)
+- [🧠 Game Flow](#-game-flow-flowchart)
+- [💡 Hint System](#-hint-system)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Project Structure](#-project-structure)
+- [▶️ How to Run](#️-how-to-run)
+- [📸 Example Gameplay](#-example-gameplay)
+- [🎯 Learning Outcomes](#-learning-outcomes)
+- [🔄 Future Improvements](#-future-improvements)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [👨‍💻 Author](#-author)
 
 ---
 
@@ -19,6 +37,7 @@ A fun and interactive **command-line number guessing game** built using Python.
 | Difficulty Levels | Easy (10 lives), Hard (5 lives) |
 | Smart Hints | Feedback based on guess accuracy |
 | Replay Option | Play again after game ends |
+| Input Handling | Interactive CLI-based input system |
 
 ---
 
