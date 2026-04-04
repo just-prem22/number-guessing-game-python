@@ -18,7 +18,6 @@ This project demonstrates **control flow, loops, conditional logic, and user int
 - 🧠 Game Flow  
 - 💡 Hint System  
 - 🛠️ Tech Stack  
-- 📂 Project Structure  
 - ▶️ How to Run  
 - 📸 Example Gameplay  
 - 🎯 Learning Outcomes  
