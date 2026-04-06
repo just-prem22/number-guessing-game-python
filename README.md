@@ -134,8 +134,6 @@ Powering the game with simple yet effective technologies:
   </tbody>
 </table>
 
----
-## ▶️ How to Run
 
 
     
