@@ -137,22 +137,7 @@ Powering the game with simple yet effective technologies:
 ---
 ## ▶️ How to Run
 
-Follow these simple steps to set up and run the game on your local machine:
 
-<table>
-  <thead>
-    <tr>
-      <th>🚀 Step</th>
-      <th>💻 Command</th>
-      <th>📌 Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>1️⃣ Clone Repository</strong></td>
-      <td><code>git clone https://github.com/your-username/number-guessing-game.git</code></td>
-      <td>Download the project to your local system</td>
-    </tr>
     
 
 ---
