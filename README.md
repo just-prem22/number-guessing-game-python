@@ -135,3 +135,40 @@ Powering the game with simple yet effective technologies:
 </table>
 
 ---
+## ▶️ How to Run
+
+Follow these simple steps to set up and run the game on your local machine:
+
+<table>
+  <thead>
+    <tr>
+      <th>🚀 Step</th>
+      <th>💻 Command</th>
+      <th>📌 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>1️⃣ Clone Repository</strong></td>
+      <td><code>git clone https://github.com/your-username/number-guessing-game.git</code></td>
+      <td>Download the project to your local system</td>
+    </tr>
+    <tr>
+      <td><strong>2️⃣ Navigate to Folder</strong></td>
+      <td><code>cd number-guessing-game</code></td>
+      <td>Move into the project directory</td>
+    </tr>
+    <tr>
+      <td><strong>3️⃣ Run the Program</strong></td>
+      <td><code>python game.py</code></td>
+      <td>Start the game in your terminal</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### ⚙️ Requirements
+
+- 🐍 **Python 3** installed on your system  
+- 💻 A terminal or command prompt to run the program  
