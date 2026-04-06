@@ -135,9 +135,5 @@ Powering the game with simple yet effective technologies:
 </table>
 
 ---
-## ▶️ How to Run
 
-
-
----
 
