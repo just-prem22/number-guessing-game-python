@@ -138,8 +138,4 @@ Powering the game with simple yet effective technologies:
 
     
 
-### ⚙️ Requirements
-
-- 🐍 **Python 3** installed on your system  
-- 💻 A terminal or command prompt to run the program  
 
