@@ -140,8 +140,6 @@ Powering the game with simple yet effective technologies:
 
     
 
----
-
 ### ⚙️ Requirements
 
 - 🐍 **Python 3** installed on your system  
