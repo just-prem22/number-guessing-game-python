@@ -168,7 +168,3 @@ Follow these simple steps to set up and run the game on your local machine:
 
 ---
 
-### ⚙️ Requirements
-
-- 🐍 **Python 3** installed on your system  
-- 💻 A terminal or command prompt to run the program  
