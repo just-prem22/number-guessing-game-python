@@ -172,7 +172,9 @@ Follow these simple steps to set up and run the game on your local machine:
 - 🐍 **Python 3** installed on your system  
 - 💻 A terminal or command prompt to run the program  
 
+--- 
+## 📸 Example Gameplay
 
-    
+A quick preview of the game experience and interaction flow:
 
 
