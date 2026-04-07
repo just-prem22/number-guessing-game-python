@@ -178,7 +178,51 @@ Follow these simple steps to set up and run the game on your local machine:
 A quick preview of the game experience and interaction flow:
 
 ### 🎯 NUMBER GUESSING GAME 🎯
+🎮 Select Difficulty → EASY
 
+❤️ Lives Remaining : 10
+
+
+
+
+
+🔢 Your Guess : 50
+
+
+📢 Feedback : 🔴 TOO HIGH
+
+
+💡 Hint : Try a smaller number
+
+
+❤️ Lives Remaining : 9
+
+
+🔢 Your Guess : 30
+
+
+
+📢 Feedback : 🟡 KEEP GUESSING
+
+
+
+💡 Hint : You are getting closer
+
+
+
+❤️ Lives Remaining : 8
+
+
+
+🔢 Your Guess : 48
+
+
+
+📢 Feedback : 🟢 TOO CLOSE
+
+
+
+💡 Hint : Just a little higher
 
 
 
