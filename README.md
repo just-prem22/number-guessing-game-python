@@ -269,7 +269,7 @@ This project provides a strong foundation in core programming concepts and probl
   </tbody>
 </table>
 
----
+
 
 💡 *Overall, this project strengthens my ability to design interactive programs with clear logic and structure.*
 
