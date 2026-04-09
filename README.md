@@ -229,4 +229,48 @@ A quick preview of the game experience and interaction flow:
 
 ## 💡Each guess brings you closer — use hints wisely and win before your lives run out!
 
+---
+## 🎯 Learning Outcomes
+
+This project provides a strong foundation in core programming concepts and problem-solving skills:
+
+<table>
+  <thead>
+    <tr>
+      <th>📚 Concept</th>
+      <th>💡 What You Learn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🔀 Conditional Logic</strong></td>
+      <td>Implement decision-making using <code>if-else</code> statements</td>
+    </tr>
+    <tr>
+      <td><strong>🔁 Iteration</strong></td>
+      <td>Use <code>while</code> loops to control repeated execution</td>
+    </tr>
+    <tr>
+      <td><strong>🧩 Functions</strong></td>
+      <td>Organize code into reusable and modular components</td>
+    </tr>
+    <tr>
+      <td><strong>⌨️ User Input Handling</strong></td>
+      <td>Capture and process real-time input from users</td>
+    </tr>
+    <tr>
+      <td><strong>🧼 Clean Code Practices</strong></td>
+      <td>Write readable, structured, and maintainable code</td>
+    </tr>
+    <tr>
+      <td><strong>🧠 Problem Solving</strong></td>
+      <td>Develop logical thinking and efficient solution-building skills</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+💡 *Overall, this project strengthens my ability to design interactive programs with clear logic and structure.*
+
 
