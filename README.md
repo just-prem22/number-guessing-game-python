@@ -229,7 +229,7 @@ A quick preview of the game experience and interaction flow:
 
 ## 💡Each guess brings you closer — use hints wisely and win before your lives run out!
 
-
+---
 ## 🎯 Learning Outcomes
 
 This project provides a strong foundation in core programming concepts and problem-solving skills:
