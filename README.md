@@ -20,8 +20,7 @@ This project demonstrates **control flow, loops, conditional logic, and user int
 - 🛠️ Tech Stack  
 - ▶️ How to Run  
 - 📸 Example Gameplay  
-- 🎯 Learning Outcomes  
-- 🔄 Future Improvements  
+- 🎯 Learning Outcomes    
 - 🤝 Contributing  
 - 📜 License  
 - 👨‍💻 Author  
@@ -271,5 +270,7 @@ This project provides a strong foundation in core programming concepts and probl
 
 
 💡 *Overall, this project strengthens my ability to design interactive programs with clear logic and structure.*
+---
+
 
 
