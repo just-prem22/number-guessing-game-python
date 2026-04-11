@@ -271,6 +271,19 @@ This project provides a strong foundation in core programming concepts and probl
 
 💡 *Overall, this project strengthens my ability to design interactive programs with clear logic and structure.*
 ---
+## 🤝 Contributing
 
+Contributions are always welcome!
 
+I’m genuinely open to collaborating with anyone who is interested in improving this project. Whether you're a beginner looking to learn, or someone experienced wanting to enhance features, fix bugs, or optimize the code — you’re absolutely welcome here. Feel free to share ideas, suggest improvements, or build new features. Let’s learn and grow together by contributing to this project 🚀
+
+### Steps to contribute:
+
+- Fork this repository  
+- Create a new branch  
+  ```bash
+  git checkout -b feature-name
+  Make your changes
+
+Commit your changes
 
