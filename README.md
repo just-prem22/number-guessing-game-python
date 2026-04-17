@@ -287,3 +287,35 @@ I’m genuinely open to collaborating with anyone who is interested in improving
 
 Commit your changes
 
+
+
+---
+## 📜 License
+
+<div align="center">
+
+### 🛡️ MIT License
+
+This project is licensed under the **MIT License** — giving you the freedom to use, modify, and distribute the code with minimal restrictions.
+
+</div>
+
+---
+
+### 🔓 What this means for you
+
+- ✅ Use this project for **personal or commercial purposes**
+- 🔧 Modify and customize the code as per your needs  
+- 📤 Distribute your own versions freely  
+- ⚠️ Just make sure to include the original license
+
+---
+
+### 💡 In simple words
+
+> You are free to do almost anything with this project — just give proper credit.
+
+---
+
+📄 For full license details, refer to the `LICENSE` file in the repository.
+
