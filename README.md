@@ -43,26 +43,7 @@ This project demonstrates **control flow, loops, conditional logic, and user int
 
 ## 🧠 Game Flow
 
-```mermaid
-flowchart TD
-    A[Start Game] --> B[Generate Random Number]
-    B --> C[Choose Difficulty]
-    C --> D[Set Lives]
-    D --> E[Start Guess Loop]
 
-    E --> F[User Enters Guess]
-    F --> G{Is Guess Correct?}
-
-    G -->|Yes| H[Display Win Message 🎉]
-    G -->|No| I{Lives Remaining?}
-
-    I -->|No| J[Game Over ❌]
-    I -->|Yes| K[Give Hint]
-
-    K --> L[Decrease Lives]
-    L --> E
-
-```
 
 ---
 ## 💡 Hint System
