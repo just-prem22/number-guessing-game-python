@@ -351,3 +351,32 @@ I’m always open to connecting with like-minded people, collaborating on projec
 
 ---
 
+## ⭐ Support
+
+<div align="center">
+
+### 💙 Show Your Support
+
+If you found this project helpful or interesting, consider supporting it!
+
+</div>
+
+---
+
+### 🚀 Ways to Support
+
+- ⭐ **Star this repository** to show appreciation  
+- 🍴 **Fork the project** and build your own version  
+- 🛠️ **Contribute** by adding features or improvements  
+- 📢 **Share it** with others who might find it useful  
+
+---
+
+### 💡 Why it matters
+
+> Your support motivates me to keep building, improving, and creating more useful projects for the community.
+
+---
+
+✨ *Every star and contribution makes a difference!*
+
