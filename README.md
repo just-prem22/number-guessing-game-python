@@ -319,3 +319,35 @@ This project is licensed under the **MIT License** — giving you the freedom to
 
 📄 For full license details, refer to the `LICENSE` file in the repository.
 
+
+---
+
+
+## 👨‍💻 Author
+
+<div align="center">
+
+### 🚀 Prem Kumar  
+
+💡 *Passionate about building, learning, and sharing knowledge in tech*
+
+</div>
+
+---
+
+### 🌟 About Me
+
+- 🎓 Student exploring the world of technology  
+- 💻 Interested in **programming, development, and problem-solving**  
+- 🚀 Building projects to learn and grow consistently  
+
+---
+
+### 🤝 Let’s Connect
+
+I’m always open to connecting with like-minded people, collaborating on projects, and learning together.
+
+> *“Keep building. Keep learning. Keep going beyond.”*
+
+---
+
