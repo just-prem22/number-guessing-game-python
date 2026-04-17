@@ -327,7 +327,7 @@ This project is licensed under the **MIT License** — giving you the freedom to
 
 <div align="center">
 
-### 🚀 Prem Kumar  
+###  Prem Kumar  
 
 💡 *Passionate about building, learning, and sharing knowledge in tech*
 
