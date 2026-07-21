@@ -103,6 +103,13 @@ Guess = 80, Actual = 50 →  TOO HIGH
 Guess = 60, Actual = 50 →  Keep guessing
 Guess = 48, Actual = 50 →  TOO CLOSE
 
+---
+
+# 📸 Gameplay Preview
+
+
+
+<img src="images/pong-gameplay.png" alt="Pong Game Gameplay" width="750">
 
 
 ---
