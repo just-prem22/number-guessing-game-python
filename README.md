@@ -109,7 +109,7 @@ Guess = 48, Actual = 50 →  TOO CLOSE
 
 
 
-<img src="images/pong-gameplay.png" alt="Pong Game Gameplay" width="750">
+<img src="number_guessing.png" width="500">
 
 
 ---
