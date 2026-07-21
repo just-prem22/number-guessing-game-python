@@ -109,7 +109,7 @@ Guess = 48, Actual = 50 →  TOO CLOSE
 
 
 
-<img src="number_guessing.png" width="500">
+<img src="number_guessing.png" width="400" >
 
 
 ---
